@@ -41,4 +41,4 @@ The results from the analysis shows that there does not seem to be bias towards 
 ![image](https://user-images.githubusercontent.com/108503112/210469510-a6aa7dab-c923-4067-baa7-663fffcfbd41.png)
 
 
-An additional analysis that is recommended would be
+An additional analysis that is recommended would be to calculate which 5-star vine reviews are verified purchases and which are not. This analysis would further support whether or not the vine reviews were biased.
