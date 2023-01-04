@@ -36,5 +36,6 @@ The purpose of this analysis is to analyze Amazon Vine reviews to determine if t
 
 
 ### Summary
-The results from the analysis shows that 
+The results from the analysis shows that there does not seem to be bias with the reviews.
+
 An additional analysis that is recommended would be
