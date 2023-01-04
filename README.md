@@ -36,7 +36,7 @@ The purpose of this analysis is to analyze paid Amazon Vine reviews to determine
 
 
 ### Summary
-The results from the analysis shows that there does not seem to be bias towards favorable 5-star reviews with Vine members. Especially because only 0.70% of the paid Vine reviews had 5 stars. Meanwhile, 47.83% of non-Vine reviews are 5-stars, meaning even when people were not being paid, they still gave 5-stars to products.
+The results from the analysis shows that there does not seem to be bias towards favorable 5-star reviews with Vine members. Especially because only 0.70% of the paid Vine reviews had 5 stars. Meanwhile, 47.83% of non-Vine reviews are 5-stars, meaning even when people were not being paid, they still gave 5-stars to products in the home category.
 
 ![image](https://user-images.githubusercontent.com/108503112/210469510-a6aa7dab-c923-4067-baa7-663fffcfbd41.png)
 
