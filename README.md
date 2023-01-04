@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 ## Overview
 ### Purpose
-The purpose of this analysis is to analyze Amazon Vine reviews to determine if there is any bias toward favorable reviews from Vine members in the chosen dataset.
+The purpose of this analysis is to analyze paid Amazon Vine reviews to determine if there is any bias toward favorable reviews from Vine members in the chosen home product category dataset. This analysis is for SellBy, which is a company that pays a small fee to Amazon to provide products to Amazon Vine members who then write and publish reviews. The summary of this analysis will be submitted to stakeholders of SellBy.
 
 ### Results
 
