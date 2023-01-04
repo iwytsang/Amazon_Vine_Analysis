@@ -36,6 +36,9 @@ The purpose of this analysis is to analyze Amazon Vine reviews to determine if t
 
 
 ### Summary
-The results from the analysis shows that there does not seem to be bias with the reviews.
+The results from the analysis shows that there does not seem to be bias with the reviews. Especially because only 0.70% of the paid Vine reviews had 5 stars.
+
+![image](https://user-images.githubusercontent.com/108503112/210469510-a6aa7dab-c923-4067-baa7-663fffcfbd41.png)
+
 
 An additional analysis that is recommended would be
